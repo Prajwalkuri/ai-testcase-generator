@@ -1,7 +1,7 @@
 
 # AI Test Case Generator
 
-> **Built by Prajwal ** — AI/ML Graduate | QA Automation Enthusiast
+> Built by Prajwal — AI/ML Graduate | QA Automation Enthusiast
 
 An AI-powered tool that generates professional, structured test cases from any feature description — covering Happy Path, Negative, Boundary, Security, and Performance scenarios.
 
@@ -15,9 +15,9 @@ An AI-powered tool that generates professional, structured test cases from any f
 
 #Tech Stack
 
-- Python** + **Streamlit** — UI and app framework
-- LangChain-style Prompt Engineering** — structured LLM prompting
-- OpenAI API / Ollama (Llama3)** — LLM backends
+- Python + Streamlit— UI and app framework
+- LangChain-style Prompt Engineering — structured LLM prompting
+- OpenAI API / Ollama (Llama3) — LLM backends
 - openpyxl + Pandas** — Excel generation and data handling
 
 #How to Use
@@ -25,7 +25,7 @@ An AI-powered tool that generates professional, structured test cases from any f
 1. Select your LLM provider in the sidebar (OpenAI key needed for OpenAI)
 2. Paste your feature description in the text box
 3. Or click a quick example button
-4. Click **Generate Test Cases**
+4. Click Generate Test Cases
 5. View on screen, filter, and download as Excel
 
 #Run Locally
